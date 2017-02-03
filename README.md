@@ -1,3 +1,7 @@
+# Ionic Video Chat
+
+---
+
 ### This documentation is for
 http://market.ionic.io/starters/whatsapp-viber-video-text-chat-full-app
 
