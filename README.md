@@ -20,7 +20,7 @@ It comes with a complete backend in **Node.js** and **MongoDB** for user managem
 
 ---
 
-![WhatsApp Viber Ionic 2 Clone](https://cloud.githubusercontent.com/assets/27974/22569351/864b6f00-e997-11e6-9baa-48370c8030b5.jpg)
+![WhatsApp Viber Ionic 2 Clone](https://cloud.githubusercontent.com/assets/27974/22764459/b3e7b9dc-ee1f-11e6-9ae0-e68034409014.jpg)
 
 ---
 
