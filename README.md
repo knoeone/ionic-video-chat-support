@@ -9,7 +9,7 @@ http://market.ionic.io/starters/whatsapp-viber-video-text-chat-full-app
 #### If you have already purchased this package, please see [Setup](https://github.com/devin-la/ionic-video-chat-v2-issues/wiki/setup) to get started.
 ---
 
-Please [open a new issue](https://github.com/devin-la/ionic-video-chat-v2-issues/issues) if you have any questions or problems.
+Please [open a new issue](https://github.com/devin-la/ionic-video-chat-support/issues) if you have any questions or problems.
 
 ---
 
