@@ -26,3 +26,5 @@ It comes with a complete backend in **Node.js** and **MongoDB** for user managem
 Chat sounds by [Chase Kenway](https://audiojungle.net/item/cute-pops/15096396).
 
 Full documentation and support information is provided in the [wiki](https://github.com/devin-la/ionic-video-chat-v2-issues/wiki).
+
+For more information, please visit http://ionicvideochat.com
